@@ -1,8 +1,8 @@
 menu:
 # - {name: 'people', url: '/people.html'}
 - {name: 'Publications', url: '/publications.html'}
-- {name: 'Courses', url: '/courses.html'}
 - {name: 'CV', url: '/cv.html'}
+- {name: 'Gallery', url: '/gallery.html'}
 - {name: 'Contact', url: '/contact.html'}
 
 people:
@@ -16,10 +16,10 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/kanonjz'}
+# - {icon: 'twitter', link: 'https://twitter.com/'}
+- {icon: 'instagram', link: 'https://instagram.com/'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/jingzong-li-955a11120'}
 
 contacts:
-- {name: 'Jingzong Li', title: '', department: 'Department of Computer Science', institution: 'City University of Hong Kong', institution_address: '83 Tat Chee Avenue', district: 'Kowloon', city: 'Hong Kong', phone: '(000) 000-0000', email: 'jingzong.li [a] my.cityu.edu.hk', office: 'MMW-3402', image: 'assets/img/contact.jpg'}
+- {name: 'Jingzong Li', title: '', department: 'Department of Computer Science', institution: 'City University of Hong Kong', institution_address: '83 Tat Chee Avenue', district: 'Kowloon', city: 'Hong Kong', phone: '(000) 000-0000', email: 'jingzong.li [a] my.cityu.edu.hk', office: 'MMW-3402', image: 'assets/img/home.jpg'}
