@@ -8,3 +8,5 @@ Hi there! I'm a 4th year Ph.D. student of Computer Science at City University of
 My research interests lie in building networked systems, with a primary focus in video analytics/streaming system, edge computing, and mobile computing.
 
 Know more about my life [here](https://kanonjz.github.io/).
+
+**I'm on the job market this year. Feel free to contact me &#128516;**
