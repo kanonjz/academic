@@ -4,10 +4,10 @@ featured:
 - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
 index:
-- {name: 'Cross-Camera Inference on the Constrained Edge', url: '/share/polly-infocom23.pdf', author: '<u>Jingzong Li</u>, Libin Liu, Hong Xu, Shudeng Wu, Chun Jason Xue', venue: 'IEEE Conference on Computer Communications (<b>INFOCOM</b>), 2023'}
-- {name: 'Faster and Stronger Lossless Compression with Optimized Autoregressive Framework', url: '/share/pac-dac23.pdf', author: 'Yu Mao, <u>Jingzong Li</u>, Yufei Cui, Chun Jason Xue', venue: 'ACM/IEEE Design Automation Conference (<b>DAC</b>), 2023'}
-- {name: 'Alfie: Neural-Reinforced Adaptive Prefetching for Short Videos', url: '/share/alfie-icme22.pdf', author: '<u>Jingzong Li</u>, Hong Xu, Ming Ma, Haopeng Yan, Chun Jason Xue', venue: 'IEEE International Conference on Multimedia and Expo (<b>ICME</b>), 2022'}
-- {name: 'ScaleFlux: Efficient Stateful Scaling in NFV', url: '/share/ScaleFlux-tpds22.pdf', author: 'Libin Liu, Hong Xu, Zhixiong Niu, <u>Jingzong Li</u>, Wei Zhang, Peng Wang, et al.', venue: 'IEEE Transactions on Parallel and Distributed Systems (<b>TPDS</b>), 2022'}
+- {name: 'Cross-Camera Inference on the Constrained Edge', url: '/share/polly-infocom23.pdf', author: '<u>Jingzong Li</u>, Libin Liu, Hong Xu, Shudeng Wu, Chun Jason Xue', venue: 'IEEE Conference on Computer Communications (<b>INFOCOM</b>), 2023', slide: 'share/slides/polly-infocom23-slide.pdf'}
+- {name: 'Faster and Stronger Lossless Compression with Optimized Autoregressive Framework', url: '/share/pac-dac23.pdf', author: 'Yu Mao, <u>Jingzong Li</u>, Yufei Cui, Chun Jason Xue', venue: 'ACM/IEEE Design Automation Conference (<b>DAC</b>), 2023', slide: ''}
+- {name: 'Alfie: Neural-Reinforced Adaptive Prefetching for Short Videos', url: '/share/alfie-icme22.pdf', author: '<u>Jingzong Li</u>, Hong Xu, Ming Ma, Haopeng Yan, Chun Jason Xue', venue: 'IEEE International Conference on Multimedia and Expo (<b>ICME</b>), 2022', slide: 'share/slides/alfie-icme22-slide.pdf'}
+- {name: 'ScaleFlux: Efficient Stateful Scaling in NFV', url: '/share/ScaleFlux-tpds22.pdf', author: 'Libin Liu, Hong Xu, Zhixiong Niu, <u>Jingzong Li</u>, Wei Zhang, Peng Wang, et al.', venue: 'IEEE Transactions on Parallel and Distributed Systems (<b>TPDS</b>), 2022', slide: ''}
 
 preprints:
 - {name: '2D-Empowered 3D Object Detection on the Edge', url: 'https://arxiv.org/abs/2302.09221', author: '<u>Jingzong Li</u>, Yik Hong Cai, Libin Liu, Yu Mao, Chun Jason Xue, Hong Xu', venue: 'arXiv:2302.09221, 2023'}

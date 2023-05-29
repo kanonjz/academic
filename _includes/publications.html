@@ -2,9 +2,11 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3">Preprints</h3>
     {% for item in site.data.publications.preprints %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a><br>
+        <p><b>{{ item.name }}</b>
+        <br>
         {{item.author}}<br>
-        {{item.venue}}
+        {{item.venue}}<br>
+        <a href="{{ item.url }}">[Paper]</a>
         </p>
     {% endfor %}
     <br>
@@ -16,9 +18,14 @@
       {% endfor %}
     {% else %}
       {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a><br>
+        <p><b>{{ item.name }}</b>
+        <br>
         {{item.author}}<br>
-        {{item.venue}}
+        {{item.venue}}<br>
+        <a href="{{ item.url }}">[Paper]</a>
+        {% if item.slide != "" %}  
+          <a href="{{ item.slide }}">[Slides]</a>
+        {% endif %}
         </p>
       {% endfor %}
     {% endif %}
