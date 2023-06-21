@@ -29,8 +29,8 @@ layout: default
       <div class="col-md-10">
         {% for section in site.data.cv.work-experience %}
           <p class="fw-bold">{{ section.description }}</p>
-          <p>{{ section.location }}</p>
-          <p>{{ section.title }}, {{ section.period }}</p>
+          <p>{{ section.title }}</p>
+          <p>{{ section.location }}; {{ section.period }}</p>
         {% endfor %}
       </div>
     </div>
