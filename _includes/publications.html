@@ -22,7 +22,9 @@
         <br>
         {{item.author}}<br>
         {{item.venue}}<br>
-        <a href="{{ item.url }}">[Paper]</a>
+        {% if item.url != "" %}  
+          <a href="{{ item.url }}">[Paper]</a>
+        {% endif %}
         {% if item.slide != "" %}  
           <a href="{{ item.slide }}">[Slides]</a>
         {% endif %}
