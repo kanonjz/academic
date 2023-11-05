@@ -4,7 +4,7 @@ featured:
 - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
 index:
-- {name: 'Moby: Empowering 2D Models for Efficient Point Cloud Analytics on the Edge', url: 'share/moby-mm23.pdf', author: '<u>Jingzong Li</u>, Yik Hong Cai, Libin Liu, Yu Mao, Chun Jason Xue, Hong Xu', venue: 'ACM International Conference on Multimedia (<b>MM</b>), Ottawa, 2023', slide: ''}
+- {name: 'Moby: Empowering 2D Models for Efficient Point Cloud Analytics on the Edge', url: 'share/moby-mm23.pdf', author: '<u>Jingzong Li</u>, Yik Hong Cai, Libin Liu, Yu Mao, Chun Jason Xue, Hong Xu', venue: 'ACM International Conference on Multimedia (<b>MM</b>), Ottawa, 2023', slide: 'share/slides/moby-mm23-slide.pdf'}
 - {name: 'Cross-Camera Inference on the Constrained Edge', url: 'share/polly-infocom23.pdf', author: '<u>Jingzong Li</u>, Libin Liu, Hong Xu, Shudeng Wu, Chun Jason Xue', venue: 'IEEE Conference on Computer Communications (<b>INFOCOM</b>), New York, 2023', slide: 'share/slides/polly-infocom23-slide.pdf'}
 - {name: 'Faster and Stronger Lossless Compression with Optimized Autoregressive Framework', url: 'share/pac-dac23.pdf', author: 'Yu Mao, <u>Jingzong Li</u>, Yufei Cui, Chun Jason Xue', venue: 'ACM/IEEE Design Automation Conference (<b>DAC</b>), San Francisco, 2023', slide: 'share/slides/pac-dac23-slide.pdf'}
 - {name: 'Efficient Time-Series Data Delivery in IoT with Xender', url: 'https://ieeexplore.ieee.org/abstract/document/10185624', author: 'Libin Liu, <u>Jingzong Li</u>, Zhixiong Niu, Wei Zhang, Chun Jason Xue, Hong Xu', venue: 'Transactions on Mobile Computing (<b>TMC</b>), 2023', slide: ''}
