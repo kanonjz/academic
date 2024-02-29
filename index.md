@@ -9,4 +9,4 @@ My research interests lie in building next-generation multimedia systems (e.g., 
 
 Know more about my life [here](https://kanonjz.github.io/).
 
-**I'm on the job market this year. Feel free to contact me &#128516;**
+<!-- **I'm on the job market this year. Feel free to contact me &#128516;** -->
