@@ -18,8 +18,8 @@ courses:
 social:
 - {icon: 'github', link: 'https://github.com/kanonjz'}
 # - {icon: 'twitter', link: 'https://twitter.com/'}
-- {icon: 'instagram', link: 'https://instagram.com/'}
+- {icon: 'instagram', link: 'https://www.instagram.com/kanonnnnnnnnnnnn/'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/jingzong-li-955a11120'}
 
 contacts:
-- {name: 'Jingzong Li', title: '', department: 'Department of Computer Science', institution: 'City University of Hong Kong', institution_address: '83 Tat Chee Avenue', district: 'Kowloon', city: 'Hong Kong', phone: '(000) 000-0000', email: 'jingzong.li [a] my.cityu.edu.hk', office: 'MMW-3402', image: 'assets/img/home.jpg'}
+- {name: 'Jingzong Li', title: '', department: 'Department of Computer Science', institution: 'The Hang Seng University of Hong Kong', institution_address: 'Hang Shin Link, Siu Lek Yuen', district: 'Shatin', city: 'Hong Kong', phone: '(000) 000-0000', email: 'jingzongli [a] hsu.edu.hk', office: 'M404', image: 'assets/img/home.jpg'}
