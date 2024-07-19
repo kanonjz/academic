@@ -17,7 +17,7 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/kanonjz'}
-# - {icon: 'twitter', link: 'https://twitter.com/'}
+- {image: 'assets/img/bat_icon', link: 'https://twitter.com/'}
 - {icon: 'instagram', link: 'https://www.instagram.com/kanonnnnnnnnnnnn/'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/jingzong-li-955a11120'}
 
