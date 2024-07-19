@@ -9,8 +9,8 @@ Hi there! I'm a networked system researcher, currently an assistant professor ap
 
 **Short Bio**: I obtained my Ph.D. degree from City University of Hong Kong, advised by Prof. [Hong Xu](https://henryhxu.github.io/) at CUHK and Prof. [Chun Jason Xue](https://scholar.google.com/citations?user=C6oyGQkAAAAJ&hl=en) at CityU. I was a visiting scholar in the Department of Electrical and Computer Engineering at UCSD in 2023.
 
-I'm open to research collaboration, feel free to drop me an email &#128516;
+I'm open to research collaboration, feel free to contact me &#128516;
 
-Know more about my life [here](https://kanonjz.github.io/).
+<!-- Know more about my life [here](https://kanonjz.github.io/). -->
 
 <!-- **I'm on the job market this year. Feel free to contact me &#128516;** -->
