@@ -16,6 +16,7 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
+- {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?user=4Yx3Y_QAAAAJ&hl=en'}
 - {icon: 'github', link: 'https://github.com/kanonjz'}
 - {icon: 'readme', link: 'https://kanonjz.github.io/'}
 - {icon: 'instagram', link: 'https://www.instagram.com/kanonnnnnnnnnnnn/'}
