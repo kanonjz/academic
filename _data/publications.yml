@@ -15,4 +15,4 @@ index:
 - {name: 'ScaleFlux: Efficient Stateful Scaling in NFV', url: 'share/ScaleFlux-tpds22.pdf', author: 'Libin Liu, Hong Xu, Zhixiong Niu, <u>Jingzong Li</u>, Wei Zhang, Peng Wang, et al.', venue: 'IEEE Transactions on Parallel and Distributed Systems (<b>TPDS</b>), 2022', slide: ''}
 
 preprints:
-
+- {name: 'Echo: Simulating Distributed Training at Scale', url: 'https://arxiv.org/abs/2412.12487', author: 'Yicheng Feng, Yuetao Chen, Kaiwen Chen, <u>Jingzong Li</u>, Tianyuan Wu, Peng Cheng, Chuan Wu, Wei Wang, Tsung-Yi Ho, Hong Xu', venue: '<b>arXiv</b>, 2024', slide: ''}
