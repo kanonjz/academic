@@ -23,4 +23,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/jingzong-li-955a11120'}
 
 contacts:
-- {name: 'Jingzong Li', title: '', department: 'Department of Computer Science', institution: 'The Hang Seng University of Hong Kong', institution_address: 'Hang Shin Link, Siu Lek Yuen', district: 'Shatin, N.T.', city: 'Hong Kong', phone: '(000) 000-0000', email: 'jingzongli [a] hsu.edu.hk', office: 'M404', image: 'assets/img/home.jpg'}
+- {name: 'Jingzong Li', title: '', department: 'Department of Computer Science', institution: 'The Hang Seng University of Hong Kong', institution_address: 'Hang Shin Link, Siu Lek Yuen', district: 'Shatin, N.T.', city: 'Hong Kong', phone: '(000) 000-0000', email: 'jingzongli [a] hsu.edu.hk', office: 'N403', image: 'assets/img/home.jpg'}
