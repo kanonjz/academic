@@ -4,6 +4,7 @@ featured:
 - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
 index:
+- {name: 'Accelerating Point Cloud Analytics on Resource-Constrained Edge Devices', url: '', author: '<u>Jingzong Li</u>, Yik Hong Cai, Libin Liu, Yu Mao, Chun Jason Xue, Hong Xu', venue: 'Elsevier Computer Networks (<b>CN</b>), 2025', slide: ''}
 - {name: 'Easz: An Agile Transformer-based Image Compression Framework for Resource-constrained IoTs', url: '', author: 'Yu Mao, <u>Jingzong Li</u>, Jun Wang, Hong Xu, Tei-Wei Kuo, Guan Nan and Chun Jason Xue', venue: 'ACM/IEEE Design Automation Conference (<b>DAC</b>), San Francisco, 2025', slide: ''}
 - {name: 'Arlo: Serving Transformer-based Language Models with Dynamic Input Lengths', url: 'share/xin-icpp24.pdf', author: 'Xin Tan, Jiamin Li, Yitao Yang, <u>Jingzong Li</u>, Hong Xu', venue: 'ACM International Conference on Parallel Processing (<b>ICPP</b>), Gotland, 2024', slide: ''}
 - {name: 'A Learning-only Method for Multi-Cell Multi-User MIMO Sum Rate Maximization', url: 'share/qingyu-infocom24.pdf', author: 'Qingyu Song, Juncheng Wang, <u>Jingzong Li</u>, Guochen Liu, Hong Xu', venue: 'IEEE Conference on Computer Communications (<b>INFOCOM</b>), Vancouver, 2024', slide: 'share/slides/L2O_MIMO_infocom22-slide.pdf'}
