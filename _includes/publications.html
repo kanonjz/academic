@@ -10,26 +10,42 @@
         </p>
     {% endfor %}
     <br>
-
-    <h3 class="fw-bold border-bottom pb-3">Publications</h3>
+    
     {% if page.title == "Home" %}
       {% for item in site.data.publications.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% else %}
-      {% for item in site.data.publications.index %}
-        <p><b>{{ item.name }}</b>
-        <br>
-        {{item.author}}<br>
-        {{item.venue}}<br>
-        {% if item.url != "" %}  
-          <a href="{{ item.url }}">[Paper]</a>
-        {% endif %}
-        {% if item.slide != "" %}  
-          <a href="{{ item.slide }}">[Slides]</a>
-        {% endif %}
-        </p>
-      {% endfor %}
+      <h3 class="fw-bold border-bottom pb-3">Conference papers</h3>
+        {% for item in site.data.publications.conference %}
+          <p><b>{{ item.name }}</b>
+          <br>
+          {{item.author}}<br>
+          {{item.venue}}<br>
+          {% if item.url != "" %}  
+            <a href="{{ item.url }}">[Paper]</a>
+          {% endif %}
+          {% if item.slide != "" %}  
+            <a href="{{ item.slide }}">[Slides]</a>
+          {% endif %}
+          </p>
+        {% endfor %}
+      
+      <h3 class="fw-bold border-bottom pb-3">Journal papers</h3>
+        {% for item in site.data.publications.journal %}
+          <p><b>{{ item.name }}</b>
+          <br>
+          {{item.author}}<br>
+          {{item.venue}}<br>
+          {% if item.url != "" %}  
+            <a href="{{ item.url }}">[Paper]</a>
+          {% endif %}
+          {% if item.slide != "" %}  
+            <a href="{{ item.slide }}">[Slides]</a>
+          {% endif %}
+          </p>
+        {% endfor %}
     {% endif %}
+
   </div>
 </div>

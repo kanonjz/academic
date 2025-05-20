@@ -1,19 +1,17 @@
-featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
-index:
-- {name: 'Accelerating Point Cloud Analytics on Resource-Constrained Edge Devices', url: '', author: '<u>Jingzong Li</u>, Yik Hong Cai, Libin Liu, Yu Mao, Chun Jason Xue, Hong Xu', venue: 'Elsevier Computer Networks (<b>CN</b>), 2025', slide: ''}
+conference:
 - {name: 'Easz: An Agile Transformer-based Image Compression Framework for Resource-constrained IoTs', url: '', author: 'Yu Mao, <u>Jingzong Li</u>, Jun Wang, Hong Xu, Tei-Wei Kuo, Guan Nan and Chun Jason Xue', venue: 'ACM/IEEE Design Automation Conference (<b>DAC</b>), San Francisco, 2025', slide: ''}
 - {name: 'Arlo: Serving Transformer-based Language Models with Dynamic Input Lengths', url: 'share/xin-icpp24.pdf', author: 'Xin Tan, Jiamin Li, Yitao Yang, <u>Jingzong Li</u>, Hong Xu', venue: 'ACM International Conference on Parallel Processing (<b>ICPP</b>), Gotland, 2024', slide: ''}
 - {name: 'A Learning-only Method for Multi-Cell Multi-User MIMO Sum Rate Maximization', url: 'share/qingyu-infocom24.pdf', author: 'Qingyu Song, Juncheng Wang, <u>Jingzong Li</u>, Guochen Liu, Hong Xu', venue: 'IEEE Conference on Computer Communications (<b>INFOCOM</b>), Vancouver, 2024', slide: 'share/slides/L2O_MIMO_infocom22-slide.pdf'}
 - {name: 'Moby: Empowering 2D Models for Efficient Point Cloud Analytics on the Edge', url: 'share/moby-mm23.pdf', author: '<u>Jingzong Li</u>, Yik Hong Cai, Libin Liu, Yu Mao, Chun Jason Xue, Hong Xu', venue: 'ACM International Conference on Multimedia (<b>MM</b>), Ottawa, 2023', slide: 'share/slides/moby-mm23-slide.pdf'}
 - {name: 'Cross-Camera Inference on the Constrained Edge', url: 'share/polly-infocom23.pdf', author: '<u>Jingzong Li</u>, Libin Liu, Hong Xu, Shudeng Wu, Chun Jason Xue', venue: 'IEEE Conference on Computer Communications (<b>INFOCOM</b>), New York, 2023', slide: 'share/slides/polly-infocom23-slide.pdf'}
 - {name: 'Faster and Stronger Lossless Compression with Optimized Autoregressive Framework', url: 'share/pac-dac23.pdf', author: 'Yu Mao, <u>Jingzong Li</u>, Yufei Cui, Chun Jason Xue', venue: 'ACM/IEEE Design Automation Conference (<b>DAC</b>), San Francisco, 2023', slide: 'share/slides/pac-dac23-slide.pdf'}
+- {name: 'Alfie: Neural-Reinforced Adaptive Prefetching for Short Videos', url: 'share/alfie-icme22.pdf', author: '<u>Jingzong Li</u>, Hong Xu, Ming Ma, Haopeng Yan, Chun Jason Xue', venue: 'IEEE International Conference on Multimedia and Expo (<b>ICME</b>), Taipei, 2022', slide: 'share/slides/alfie-icme22-slide.pdf'}
+
+journal:
+- {name: 'Accelerating Point Cloud Analytics on Resource-Constrained Edge Devices', url: '', author: '<u>Jingzong Li</u>, Yik Hong Cai, Libin Liu, Yu Mao, Chun Jason Xue, Hong Xu', venue: 'Elsevier Computer Networks (<b>CN</b>), 2025', slide: ''}
 - {name: 'Efficient Time-Series Data Delivery in IoT with Xender', url: 'https://ieeexplore.ieee.org/abstract/document/10185624', author: 'Libin Liu, <u>Jingzong Li</u>, Zhixiong Niu, Wei Zhang, Chun Jason Xue, Hong Xu', venue: 'Transactions on Mobile Computing (<b>TMC</b>), 2023', slide: ''}
 - {name: 'Efficient Real-Time Video Conferencing with Adaptive Frame Delivery', url: 'https://www.sciencedirect.com/science/article/pii/S1389128623003638', author: 'Libin Liu, <u>Jingzong Li</u>, Kaiwen Xue, Hong Xu, Chun Jason Xue', venue: 'Elsevier Computer Networks (<b>CN</b>), 2023', slide: ''}
-- {name: 'Alfie: Neural-Reinforced Adaptive Prefetching for Short Videos', url: 'share/alfie-icme22.pdf', author: '<u>Jingzong Li</u>, Hong Xu, Ming Ma, Haopeng Yan, Chun Jason Xue', venue: 'IEEE International Conference on Multimedia and Expo (<b>ICME</b>), Taipei, 2022', slide: 'share/slides/alfie-icme22-slide.pdf'}
 - {name: 'ScaleFlux: Efficient Stateful Scaling in NFV', url: 'share/ScaleFlux-tpds22.pdf', author: 'Libin Liu, Hong Xu, Zhixiong Niu, <u>Jingzong Li</u>, Wei Zhang, Peng Wang, et al.', venue: 'IEEE Transactions on Parallel and Distributed Systems (<b>TPDS</b>), 2022', slide: ''}
 
 preprints:
