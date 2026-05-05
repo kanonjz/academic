@@ -9,7 +9,7 @@ Hi there! I'm a network and system researcher, currently an assistant professor 
 
 <!-- My research interests lie in building next-generation multimedia systems (e.g., video streaming/analytics, AR/VR, 3D video), edge computing, and agentic AI. -->
 
-My research tackles a central challenge in modern AI deployment: how do we bring increasingly powerful models — from real-time video analytics to large language models — to the resource-constrained reality of edge devices? By optimizing across the full stack of compute, memory, and network, I aim to make edge AI not just feasible, but truly efficient.
+I work on bridging powerful AI models — from video analytics to LLMs — with the real-world constraints of edge devices, optimizing across compute, memory, and network to make edge AI genuinely efficient.
 
 **Short Bio**: I obtained my Ph.D. degree from City University of Hong Kong, advised by Prof. [Hong Xu](https://henryhxu.github.io/) at CUHK and Prof. [Chun Jason Xue](https://scholar.google.com/citations?user=C6oyGQkAAAAJ&hl=en) at CityU. I was a visiting scholar in the Department of Electrical and Computer Engineering at UCSD in 2023.
 
