@@ -1,6 +1,6 @@
 
 conference:
-- {name: 'Scalable and Efficient Simulation of LLM Trainingg', url: 'https://arxiv.org/abs/2412.12487', author: 'Yicheng Feng, Kin Hang Sew, Yuetao Chen, Kaiwen Chen, <u>Jingzong Li</u>, Tianyuan Wu, Zheng Zhou, Peng Cheng, Chuan Wu, Wei Wang, Tsung-Yi Ho, Hong Xu', venue: '<b>IEEE SC</b>, Chicago, 2026', slide: ''}
+- {name: 'Scalable and Efficient Simulation of LLM Training', url: 'https://arxiv.org/abs/2412.12487', author: 'Yicheng Feng, Kin Hang Sew, Yuetao Chen, Kaiwen Chen, <u>Jingzong Li</u>, Tianyuan Wu, Zheng Zhou, Peng Cheng, Chuan Wu, Wei Wang, Tsung-Yi Ho, Hong Xu', venue: '<b>IEEE SC</b>, Chicago, 2026', slide: ''}
 - {name: 'ReasonCache: Accelerating Large Reasoning Model Serving through KV Cache Sharing', url: 'share/ReasonCache-iwqos26.pdf', author: 'Kaiwen Chen, Xin Tan, Minchen Yu, <u>Jingzong Li</u>, Hong Xu', venue: '<b>IEEE/ACM IWQoS</b>, Istanbul, 2026', slide: ''}
 - {name: 'Easz: An Agile Transformer-based Image Compression Framework for Resource-constrained IoTs', url: 'https://ieeexplore.ieee.org/document/11132645/', author: 'Yu Mao, <u>Jingzong Li</u>, Jun Wang, Hong Xu, Tei-Wei Kuo, Guan Nan and Chun Jason Xue', venue: '<b>ACM/IEEE DAC</b>, San Francisco, 2025', slide: ''}
 - {name: 'Arlo: Serving Transformer-based Language Models with Dynamic Input Lengths', url: 'share/xin-icpp24.pdf', author: 'Xin Tan, Jiamin Li, Yitao Yang, <u>Jingzong Li</u>, Hong Xu', venue: '<b>ACM ICPP</b>, Gotland, 2024', slide: ''}
