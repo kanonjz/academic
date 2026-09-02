@@ -11,7 +11,7 @@ Hi there! I'm a network and system researcher, currently an assistant professor 
 
 I work on bridging powerful AI models — from video analytics to LLMs — with the real-world constraints of edge devices, optimizing across compute, memory, and network to make edge AI genuinely efficient.
 
-**Short Bio**: I obtained my Ph.D. degree from City University of Hong Kong, advised by Prof. [Hong Xu](https://henryhxu.github.io/) at CUHK and Prof. [Chun Jason Xue](https://scholar.google.com/citations?user=C6oyGQkAAAAJ&hl=en) at CityU. I was a visiting scholar in the Department of Electrical and Computer Engineering at UCSD in 2023.
+**Short Bio**: I obtained my Ph.D. degree from City University of Hong Kong, advised by Prof. [Hong Xu](https://henryhxu.github.io/) at CUHK and Prof. [Chun Jason Xue](https://scholar.google.com/citations?user=C6oyGQkAAAAJ&hl=en) at MBZUAI. I was a visiting scholar in the Department of Electrical and Computer Engineering at UCSD in 2023.
 
 I'm open to research collaboration, feel free to contact me &#128516;
 

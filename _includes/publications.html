@@ -7,6 +7,12 @@
         {{item.author}}<br>
         {{item.venue}}<br>
         <a href="{{ item.url }}">[Paper]</a>
+        {% if item.code and item.code != empty %}
+          <a href="{{ item.code }}">[Code]</a>
+        {% endif %}
+        {% if item.news and item.news != empty %}
+          <a href="{{ item.news }}">[News Coverage]</a>
+        {% endif %}
         </p>
     {% endfor %}
     <br>
@@ -28,6 +34,12 @@
           {% if item.slide != "" %}  
             <a href="{{ item.slide }}">[Slides]</a>
           {% endif %}
+          {% if item.code and item.code != empty %}  
+            <a href="{{ item.code }}">[Code]</a>
+          {% endif %}
+          {% if item.news and item.news != empty %}  
+            <a href="{{ item.news }}">[News Coverage]</a>
+          {% endif %}
           </p>
         {% endfor %}
         <br>
@@ -43,6 +55,12 @@
           {% endif %}
           {% if item.slide != "" %}  
             <a href="{{ item.slide }}">[Slides]</a>
+          {% endif %}
+          {% if item.code and item.code != empty %}
+            <a href="{{ item.code }}">[Code]</a>
+          {% endif %}
+          {% if item.news and item.news != empty %}
+            <a href="{{ item.news }}">[News Coverage]</a>
           {% endif %}
           </p>
         {% endfor %}
