@@ -11,6 +11,7 @@ conference:
 - {name: 'Alfie: Neural-Reinforced Adaptive Prefetching for Short Videos', url: 'share/alfie-icme22.pdf', author: '<u>Jingzong Li</u>, Hong Xu, Ming Ma, Haopeng Yan, Chun Jason Xue', venue: '<b>IEEE ICME</b>, Taipei, 2022', slide: 'share/slides/alfie-icme22-slide.pdf'}
 
 journal:
+- {name: 'AutoEdge: Towards Full-Lifecycle Agentic Deployment of Edge Video Analytics', url: 'share/AutoEdge-tmc26.pdf', author: '<u>Jingzong Li</u>, Caoxi Zhang, Huanqi Yang, Hai Liu, Hong Xu, Guoliang Xing', venue: 'Transactions on Mobile Computing (<b>TMC</b>), 2026', slide: ''}
 - {name: 'Accelerating Point Cloud Analytics on Resource-Constrained Edge Devices', url: 'share/moby-cn25.pdf', author: '<u>Jingzong Li</u>, Yik Hong Cai, Libin Liu, Yu Mao, Chun Jason Xue, Hong Xu', venue: 'Elsevier Computer Networks (<b>CN</b>), 2025', slide: ''}
 - {name: 'Efficient Time-Series Data Delivery in IoT with Xender', url: 'https://ieeexplore.ieee.org/abstract/document/10185624', author: 'Libin Liu, <u>Jingzong Li</u>, Zhixiong Niu, Wei Zhang, Chun Jason Xue, Hong Xu', venue: 'Transactions on Mobile Computing (<b>TMC</b>), 2023', slide: ''}
 - {name: 'Efficient Real-Time Video Conferencing with Adaptive Frame Delivery', url: 'https://www.sciencedirect.com/science/article/pii/S1389128623003638', author: 'Libin Liu, <u>Jingzong Li</u>, Kaiwen Xue, Hong Xu, Chun Jason Xue', venue: 'Elsevier Computer Networks (<b>CN</b>), 2023', slide: ''}
